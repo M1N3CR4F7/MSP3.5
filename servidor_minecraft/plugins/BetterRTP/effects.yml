@@ -1,8 +1,7 @@
 Sounds:
-  Enabled: true 
+  Delay: entity_tnt_primed
+  Enabled: true
   ProtocolLibSound: false
-  # # More sounds at https://www.spigotmc.org/wiki/cc-sounds-list/
-  Delay: 
   Success: ENTITY_ENDERMEN_TELEPORT
 Titles:
   Enabled: false # Enable the titles effect feature
