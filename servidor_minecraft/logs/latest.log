@@ -47,3 +47,17 @@ com.google.gson.JsonSyntaxException: Expected entry to be a JsonObject, was null
 [20:10:30] [Server thread/INFO]: C0RR3A_D4 has made the advancement [Getting an Upgrade]
 [20:23:58] [Server thread/INFO]: C0RR3A_D4 has made the advancement [A Seedy Place]
 [20:24:47] [Server thread/INFO]: C0RR3A_D4 has made the advancement [Acquire Hardware]
+[20:25:26] [Server thread/INFO]: C0RR3A_D4 has made the advancement [Isn't It Iron Pick]
+[20:26:56] [Server thread/INFO]: C0RR3A_D4 has made the advancement [Suit Up]
+[20:30:07] [Server thread/INFO]: C0RR3A_D4 lost connection: Disconnected
+[20:30:07] [Server thread/INFO]: C0RR3A_D4 left the game
+[20:32:04] [Server thread/INFO]: Charyutu[/10.244.211.189:59792] logged in with entity id 6469 at (-20.5, 69.0, 23.5)
+[20:32:04] [Server thread/INFO]: Charyutu joined the game
+[20:34:09] [Server thread/INFO]: Charyutu has made the advancement [Stone Age]
+[20:34:25] [Server thread/INFO]: Charyutu has made the advancement [Getting an Upgrade]
+[20:41:14] [Server thread/INFO]: Charyutu lost connection: Disconnected
+[20:41:14] [Server thread/INFO]: Charyutu left the game
+[20:41:57] [Server thread/INFO]: Charyutu[/10.244.211.189:60330] logged in with entity id 9042 at (-63.69999998807907, 71.0, 28.645083565889962)
+[20:41:57] [Server thread/INFO]: Charyutu joined the game
+[20:42:13] [Server thread/INFO]: Charyutu lost connection: Disconnected
+[20:42:13] [Server thread/INFO]: Charyutu left the game
