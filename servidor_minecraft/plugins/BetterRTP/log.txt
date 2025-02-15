@@ -1,35 +1,34 @@
-2025-02-15 16:31:38 [INFO]: Loading Overrides...
-2025-02-15 16:31:38 [INFO]: - Override 'master_world' -> 'world' added
-2025-02-15 16:31:38 [INFO]: - Override 'creative_world' -> 'world' added
-2025-02-15 16:31:38 [INFO]: Loading World Types...
-2025-02-15 16:31:38 [INFO]: - World Type for 'world' set to 'NORMAL'
-2025-02-15 16:31:38 [INFO]: - World Type for 'world_nether' set to 'NETHER'
-2025-02-15 16:31:38 [INFO]: - World Type for 'world_the_end' set to 'NORMAL'
-2025-02-15 16:31:38 [INFO]: Loading Defaults...
-2025-02-15 16:31:38 [INFO]: - UseWorldBorder: false
-2025-02-15 16:31:38 [INFO]: - CenterX: 0
-2025-02-15 16:31:38 [INFO]: - CenterZ: 0
-2025-02-15 16:31:38 [INFO]: - MaxRadius: 10000
-2025-02-15 16:31:38 [INFO]: - MinRadius: 100
-2025-02-15 16:31:38 [INFO]: - Price: 0
-2025-02-15 16:31:38 [INFO]: - MinY: 0
-2025-02-15 16:31:38 [INFO]: - MaxY: 320
-2025-02-15 16:31:38 [INFO]: - Cooldown (default): 60
-2025-02-15 16:31:38 [INFO]: Loading Custom Worlds...
-2025-02-15 16:31:38 [INFO]: [WARN] - Custom World 'custom_world_1' was not registered because world does NOT exist
-2025-02-15 16:31:38 [INFO]: [WARN] - Custom World 'other_custom_world' was not registered because world does NOT exist
-2025-02-15 16:31:38 [INFO]: Loading Permission Groups...
-2025-02-15 16:31:38 [INFO]: - Permission Group: vip
-2025-02-15 16:31:38 [INFO]: - -- World: overworld
-2025-02-15 16:31:38 [INFO]: - - The Permission Group 'vip's world 'overworld' does not exist! Permission Group not loaded...
-2025-02-15 16:31:38 [INFO]: - -- World: Survival_World
-2025-02-15 16:31:38 [INFO]: - - The Permission Group 'vip's world 'Survival_World' does not exist! Permission Group not loaded...
-2025-02-15 16:31:38 [INFO]: - Permission Group: vip2
-2025-02-15 16:31:38 [INFO]: - -- World: Build_World
-2025-02-15 16:31:38 [INFO]: - - The Permission Group 'vip2's world 'Build_World' does not exist! Permission Group not loaded...
-2025-02-15 16:31:39 [INFO]: Database PLAYERS:Players configured and loaded!
-2025-02-15 16:31:39 [INFO]: Database CHUNK_DATA:ChunkData configured and loaded!
-2025-02-15 16:31:39 [INFO]: Database COOLDOWN:world configured and loaded!
-2025-02-15 16:31:39 [INFO]: Database COOLDOWN:world_nether configured and loaded!
-2025-02-15 16:31:39 [INFO]: Database COOLDOWN:world_the_end configured and loaded!
-2025-02-15 16:32:47 [INFO]: Disabling BetterRTP v3.6.13
+2025-02-15 16:34:04 [INFO]: Loading Overrides...
+2025-02-15 16:34:04 [INFO]: - Override 'master_world' -> 'world' added
+2025-02-15 16:34:04 [INFO]: - Override 'creative_world' -> 'world' added
+2025-02-15 16:34:04 [INFO]: Loading World Types...
+2025-02-15 16:34:04 [INFO]: - World Type for 'world' set to 'NORMAL'
+2025-02-15 16:34:04 [INFO]: - World Type for 'world_nether' set to 'NETHER'
+2025-02-15 16:34:04 [INFO]: - World Type for 'world_the_end' set to 'NORMAL'
+2025-02-15 16:34:04 [INFO]: Loading Defaults...
+2025-02-15 16:34:04 [INFO]: - UseWorldBorder: false
+2025-02-15 16:34:04 [INFO]: - CenterX: 0
+2025-02-15 16:34:04 [INFO]: - CenterZ: 0
+2025-02-15 16:34:04 [INFO]: - MaxRadius: 10000
+2025-02-15 16:34:04 [INFO]: - MinRadius: 100
+2025-02-15 16:34:04 [INFO]: - Price: 0
+2025-02-15 16:34:04 [INFO]: - MinY: 0
+2025-02-15 16:34:04 [INFO]: - MaxY: 320
+2025-02-15 16:34:04 [INFO]: - Cooldown (default): 60
+2025-02-15 16:34:04 [INFO]: Loading Custom Worlds...
+2025-02-15 16:34:04 [INFO]: [WARN] - Custom World 'custom_world_1' was not registered because world does NOT exist
+2025-02-15 16:34:04 [INFO]: [WARN] - Custom World 'other_custom_world' was not registered because world does NOT exist
+2025-02-15 16:34:04 [INFO]: Loading Permission Groups...
+2025-02-15 16:34:04 [INFO]: - Permission Group: vip
+2025-02-15 16:34:04 [INFO]: - -- World: overworld
+2025-02-15 16:34:04 [INFO]: - - The Permission Group 'vip's world 'overworld' does not exist! Permission Group not loaded...
+2025-02-15 16:34:04 [INFO]: - -- World: Survival_World
+2025-02-15 16:34:04 [INFO]: - - The Permission Group 'vip's world 'Survival_World' does not exist! Permission Group not loaded...
+2025-02-15 16:34:04 [INFO]: - Permission Group: vip2
+2025-02-15 16:34:04 [INFO]: - -- World: Build_World
+2025-02-15 16:34:04 [INFO]: - - The Permission Group 'vip2's world 'Build_World' does not exist! Permission Group not loaded...
+2025-02-15 16:34:04 [INFO]: Database PLAYERS:Players configured and loaded!
+2025-02-15 16:34:04 [INFO]: Database CHUNK_DATA:ChunkData configured and loaded!
+2025-02-15 16:34:04 [INFO]: Database COOLDOWN:world configured and loaded!
+2025-02-15 16:34:04 [INFO]: Database COOLDOWN:world_nether configured and loaded!
+2025-02-15 16:34:04 [INFO]: Database COOLDOWN:world_the_end configured and loaded!

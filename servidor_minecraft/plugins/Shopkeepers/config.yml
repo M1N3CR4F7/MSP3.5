@@ -254,12 +254,9 @@ player-shopkeeper-inactive-days: 0
 enabled-living-shops:
 - VILLAGER
 - ALLAY
-- ARMADILLO
 - AXOLOTL
 - BEE
 - BLAZE
-- BOGGED
-- BREEZE
 - CAMEL
 - CAT
 - CAVE_SPIDER
@@ -285,7 +282,6 @@ enabled-living-shops:
 - IRON_GOLEM
 - LLAMA
 - MAGMA_CUBE
-- MOOSHROOM
 - MULE
 - OCELOT
 - PANDA
@@ -307,7 +303,6 @@ enabled-living-shops:
 - SKELETON_HORSE
 - SLIME
 - SNIFFER
-- SNOW_GOLEM
 - SPIDER
 - SQUID
 - STRAY
