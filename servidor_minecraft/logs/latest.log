@@ -1,93 +1,106 @@
-[17:17:37] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:17:39] [ServerMain/INFO]: Loaded 7 recipes
-[17:17:39] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[17:17:39] [Server thread/INFO]: Loading properties
-[17:17:39] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[17:17:40] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:17:40] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:17:40] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[18:50:53] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:50:57] [ServerMain/INFO]: Loaded 7 recipes
+[18:50:57] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[18:50:57] [Server thread/INFO]: Loading properties
+[18:50:57] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[18:50:58] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:50:58] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:50:59] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[17:17:40] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[17:17:40] [Server thread/INFO]: Default game type: SURVIVAL
-[17:17:40] [Server thread/INFO]: Generating keypair
-[17:17:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:17:40] [Server thread/INFO]: Using epoll channel type
-[17:17:41] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[17:17:41] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[17:17:41] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loading 3 libraries... please wait
-[17:17:41] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /workspaces/MSP3.5/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.17.0/adventure-text-minimessage-4.17.0.jar
-[17:17:41] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /workspaces/MSP3.5/servidor_minecraft/libraries/net/kyori/adventure-api/4.17.0/adventure-api-4.17.0.jar
-[17:17:41] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /workspaces/MSP3.5/servidor_minecraft/libraries/net/kyori/adventure-key/4.17.0/adventure-key-4.17.0.jar
-[17:17:41] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /workspaces/MSP3.5/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
-[17:17:41] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /workspaces/MSP3.5/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
-[17:17:41] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /workspaces/MSP3.5/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.2/adventure-platform-bukkit-4.3.2.jar
-[17:17:41] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /workspaces/MSP3.5/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.jar
-[17:17:41] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /workspaces/MSP3.5/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.2/adventure-text-serializer-bungeecord-4.3.2.jar
-[17:17:41] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /workspaces/MSP3.5/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.jar
-[17:17:41] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /workspaces/MSP3.5/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
-[17:17:41] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /workspaces/MSP3.5/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.13.1/adventure-text-serializer-gson-4.13.1.jar
-[17:17:41] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /workspaces/MSP3.5/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
-[17:17:41] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /workspaces/MSP3.5/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.2/adventure-platform-facet-4.3.2.jar
-[17:17:41] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /workspaces/MSP3.5/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.2/adventure-platform-viaversion-4.3.2.jar
-[17:17:41] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /workspaces/MSP3.5/servidor_minecraft/libraries/org/jetbrains/kotlin/kotlin-stdlib/2.0.0/kotlin-stdlib-2.0.0.jar
-[17:17:41] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /workspaces/MSP3.5/servidor_minecraft/libraries/org/jetbrains/annotations/13.0/annotations-13.0.jar
-[17:17:41] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1
-[17:17:41] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1 is now loaded. Registering protocol transformers and injecting...
-[17:17:42] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[17:17:42] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[17:17:42] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[17:17:42] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[17:17:42] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.153
-[17:17:43] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[17:17:43] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.1+6763-2e55f4f
-[17:17:43] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@5519200a]
-[17:17:43] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.9+5934e49
-[17:17:43] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[17:17:43] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.2.1
-[17:17:43] [Server thread/INFO]: [ClearLag] Loading server plugin ClearLag v3.2.2
-[17:17:43] [Server thread/INFO]: [Shopkeepers] Loading server plugin Shopkeepers v2.22.3
-[17:17:43] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (290 ms).
-[17:17:43] [Server thread/INFO]: [Shopkeepers] Loading config.
-[17:17:43] [Server thread/INFO]: [Shopkeepers] Loading language file: language-es.yml
-[17:17:43] [Server thread/WARN]: [Shopkeepers] Language: Missing message: command-description-remote-edit
-[17:17:43] [Server thread/WARN]: [Shopkeepers] Language: Missing message: command-description-settradedcommand
-[17:17:43] [Server thread/WARN]: [Shopkeepers] Language: Missing message: command-description-snapshot-restore
-[17:17:43] [Server thread/INFO]: [Shopkeepers] Registering WorldGuard flag 'allow-shop'.
-[17:17:43] [Server thread/INFO]: [Shopkeepers] Registering defaults.
-[17:17:43] [Server thread/INFO]: [spark] Loading server plugin spark v1.10.124
-[17:17:43] [Server thread/INFO]: [BetterRTP] Loading server plugin BetterRTP v3.6.13
-[17:17:43] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
-[17:17:43] [Server thread/INFO]: [WorldGuardRegionProtect] Loading server plugin WorldGuardRegionProtect v1.8.2.21
-[17:17:43] [Server thread/INFO]: [PlayerKits2] Loading server plugin PlayerKits2 v1.15.2
-[17:17:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:17:43] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.153
-[17:17:44] [Server thread/INFO]:         __    
-[17:17:44] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.153
-[17:17:44] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[17:17:44] [Server thread/INFO]: 
-[17:17:44] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[17:17:44] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[17:17:44] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[17:17:44] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[17:17:44] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1000ms)
-[17:17:44] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[17:17:44] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[17:17:44] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[17:17:44] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[17:17:44] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.1+6763-2e55f4f
-[17:17:44] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[17:17:44] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
-[17:17:45] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R1.PaperweightAdapter as the Bukkit adapter
-[17:17:46] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
-[17:17:46] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
-[17:17:46] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[17:17:46] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.5.2]
-[17:17:46] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
-[17:17:46] [Server thread/INFO]: [WorldGuardRegionProtect] Enabling WorldGuardRegionProtect v1.8.2.21
-[17:17:46] [Server thread/INFO]: [WorldGuardRegionProtect] Loaded NMS hook in 0ms
-[17:17:46] [Server thread/INFO]: [WorldGuardRegionProtect] Current supported versions range: 1.20 - 1.21.4
-[17:17:46] [Server thread/INFO]: [WorldGuardRegionProtect] ====================================================
+[18:50:59] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[18:50:59] [Server thread/INFO]: Default game type: SURVIVAL
+[18:50:59] [Server thread/INFO]: Generating keypair
+[18:50:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:50:59] [Server thread/INFO]: Using epoll channel type
+[18:50:59] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[18:50:59] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[18:51:00] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loading 3 libraries... please wait
+[18:51:01] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /workspaces/MSP3.5/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.17.0/adventure-text-minimessage-4.17.0.jar
+[18:51:01] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /workspaces/MSP3.5/servidor_minecraft/libraries/net/kyori/adventure-api/4.17.0/adventure-api-4.17.0.jar
+[18:51:01] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /workspaces/MSP3.5/servidor_minecraft/libraries/net/kyori/adventure-key/4.17.0/adventure-key-4.17.0.jar
+[18:51:01] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /workspaces/MSP3.5/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[18:51:01] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /workspaces/MSP3.5/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[18:51:01] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /workspaces/MSP3.5/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.2/adventure-platform-bukkit-4.3.2.jar
+[18:51:01] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /workspaces/MSP3.5/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.jar
+[18:51:01] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /workspaces/MSP3.5/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.2/adventure-text-serializer-bungeecord-4.3.2.jar
+[18:51:01] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /workspaces/MSP3.5/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.jar
+[18:51:01] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /workspaces/MSP3.5/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[18:51:01] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /workspaces/MSP3.5/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.13.1/adventure-text-serializer-gson-4.13.1.jar
+[18:51:01] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /workspaces/MSP3.5/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[18:51:01] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /workspaces/MSP3.5/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.2/adventure-platform-facet-4.3.2.jar
+[18:51:01] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /workspaces/MSP3.5/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.2/adventure-platform-viaversion-4.3.2.jar
+[18:51:01] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /workspaces/MSP3.5/servidor_minecraft/libraries/org/jetbrains/kotlin/kotlin-stdlib/2.0.0/kotlin-stdlib-2.0.0.jar
+[18:51:01] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /workspaces/MSP3.5/servidor_minecraft/libraries/org/jetbrains/annotations/13.0/annotations-13.0.jar
+[18:51:01] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1
+[18:51:01] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1 is now loaded. Registering protocol transformers and injecting...
+[18:51:01] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[18:51:01] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[18:51:01] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[18:51:01] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[18:51:02] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.153
+[18:51:03] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[18:51:03] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.1+6763-2e55f4f
+[18:51:03] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@51f81a2e]
+[18:51:03] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.9+5934e49
+[18:51:03] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[18:51:03] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.2.1
+[18:51:03] [Server thread/INFO]: [ClearLag] Loading server plugin ClearLag v3.2.2
+[18:51:03] [Server thread/INFO]: [Shopkeepers] Loading server plugin Shopkeepers v2.22.3
+[18:51:03] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (340 ms).
+[18:51:03] [Server thread/INFO]: [Shopkeepers] Loading config.
+[18:51:03] [Server thread/INFO]: [Shopkeepers] Loading language file: language-es.yml
+[18:51:04] [Server thread/WARN]: [Shopkeepers] Language: Missing message: command-description-remote-edit
+[18:51:04] [Server thread/WARN]: [Shopkeepers] Language: Missing message: command-description-settradedcommand
+[18:51:04] [Server thread/WARN]: [Shopkeepers] Language: Missing message: command-description-snapshot-restore
+[18:51:04] [Server thread/INFO]: [Shopkeepers] Registering WorldGuard flag 'allow-shop'.
+[18:51:04] [Server thread/INFO]: [Shopkeepers] Registering defaults.
+[18:51:04] [Server thread/INFO]: [spark] Loading server plugin spark v1.10.124
+[18:51:04] [Server thread/INFO]: [BetterRTP] Loading server plugin BetterRTP v3.6.13
+[18:51:04] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
+[18:51:04] [Server thread/INFO]: [WorldGuardRegionProtect] Loading server plugin WorldGuardRegionProtect v1.8.2.21
+[18:51:04] [Server thread/INFO]: [PlayerKits2] Loading server plugin PlayerKits2 v1.15.2
+[18:51:04] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:51:04] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.153
+[18:51:04] [Server thread/INFO]:         __    
+[18:51:04] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.153
+[18:51:04] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[18:51:04] [Server thread/INFO]: 
+[18:51:04] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[18:51:04] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[18:51:05] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[18:51:05] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[18:51:05] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1618ms)
+[18:51:05] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[18:51:05] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[18:51:05] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[18:51:05] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[18:51:05] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.1+6763-2e55f4f
+[18:51:05] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[18:51:05] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[18:51:05] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R1.PaperweightAdapter as the Bukkit adapter
+[18:51:07] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
+[18:51:08] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[18:51:08] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[18:51:08] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.5.2]
+[18:51:08] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
+[18:51:08] [Server thread/INFO]: [WorldGuardRegionProtect] Enabling WorldGuardRegionProtect v1.8.2.21
+[18:51:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:51:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[18:51:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[18:51:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[18:51:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[18:51:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[18:51:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:51:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.2
+[18:51:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ae257f6
+[18:51:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[18:51:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:51:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[18:51:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[18:51:09] [Server thread/INFO]: [WorldGuardRegionProtect] Loaded NMS hook in 0ms
+[18:51:09] [Server thread/INFO]: [WorldGuardRegionProtect] Current supported versions range: 1.20 - 1.21.4
+[18:51:09] [Server thread/INFO]: [WorldGuardRegionProtect] ====================================================
 
         WorldGuardRegionProtect 1.8.2.21
         Server running on Paper - 1.20.1.
@@ -95,259 +108,102 @@
 
 ====================================================
 
-[17:17:46] [Server thread/INFO]: [WorldGuardRegionProtect] Compatibility checks passed successfully.
-[17:17:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[17:17:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[17:17:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[17:17:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[17:17:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[17:17:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[17:17:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[17:17:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.2
-[17:17:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ae257f6
-[17:17:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[17:17:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[17:17:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[17:17:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[17:17:47] [Server thread/INFO]: [WorldGuardRegionProtect] Started checking the new version of the config file...
-[17:17:47] [Server thread/INFO]: [WorldGuardRegionProtect] No update is required for the config file
-[17:17:47] [Server thread/INFO]: [WorldGuardRegionProtect] Started loading messages...
-[17:17:47] [Server thread/INFO]: [WorldGuardRegionProtect] Started checking the new version of the language file...
-[17:17:47] [Server thread/INFO]: [WorldGuardRegionProtect] No update is required for the lang file
-[17:17:47] [Server thread/INFO]: [WorldGuardRegionProtect] All configs load successfully!
-[17:17:47] [Server thread/WARN]: [WorldGuardRegionProtect] WorldGuard plugin is not installed or not enabled. Features requiring WorldGuard will not function.
-[17:17:47] [Server thread/WARN]: [WorldGuardRegionProtect] PlaceholderAPI is not installed or enabled. Placeholders will not function.
-[17:17:47] [Server thread/INFO]: [WorldGuardRegionProtect] All commands registered successfully!
-[17:17:47] [Server thread/INFO]: [WorldGuardRegionProtect] All listeners registered successfully!
-[17:17:47] [Server thread/INFO]: [WorldGuardRegionProtect] Using Español language version . Author of this localization - RSTeamCore, FabriCanoSolitario.
+[18:51:09] [Server thread/INFO]: [WorldGuardRegionProtect] Compatibility checks passed successfully.
+[18:51:09] [Server thread/INFO]: [WorldGuardRegionProtect] Started checking the new version of the config file...
+[18:51:09] [Server thread/INFO]: [WorldGuardRegionProtect] No update is required for the config file
+[18:51:09] [Server thread/INFO]: [WorldGuardRegionProtect] Started loading messages...
+[18:51:09] [Server thread/INFO]: [WorldGuardRegionProtect] Started checking the new version of the language file...
+[18:51:09] [Server thread/INFO]: [WorldGuardRegionProtect] No update is required for the lang file
+[18:51:09] [Server thread/INFO]: [WorldGuardRegionProtect] All configs load successfully!
+[18:51:09] [Server thread/WARN]: [WorldGuardRegionProtect] WorldGuard plugin is not installed or not enabled. Features requiring WorldGuard will not function.
+[18:51:09] [Server thread/WARN]: [WorldGuardRegionProtect] PlaceholderAPI is not installed or enabled. Placeholders will not function.
+[18:51:09] [Server thread/INFO]: [WorldGuardRegionProtect] All commands registered successfully!
+[18:51:09] [Server thread/INFO]: [WorldGuardRegionProtect] All listeners registered successfully!
+[18:51:09] [Server thread/INFO]: [WorldGuardRegionProtect] Using Español language version . Author of this localization - RSTeamCore, FabriCanoSolitario.
 
-[17:17:47] [Folia Async Scheduler Thread Timer/INFO]: [WorldGuardRegionProtect] Checking for updates using Paper schedulers.
-[17:17:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully enabled. (took 273ms)
-[17:17:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:17:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:17:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:17:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:17:47] [Server thread/INFO]: Preparing level "world"
-[17:17:47] [Folia Async Scheduler Thread Timer/INFO]: [WorldGuardRegionProtect] The plugin is already up-to-date. No download needed.
-[17:17:47] [Folia Async Scheduler Thread Timer/INFO]: ========[WorldGuardRegionProtect]========
+[18:51:09] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully enabled. (took 726ms)
+[18:51:09] [Folia Async Scheduler Thread Timer/INFO]: [WorldGuardRegionProtect] Checking for updates using Paper schedulers.
+[18:51:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:51:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:51:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:51:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:51:09] [Server thread/INFO]: Preparing level "world"
+[18:51:09] [Folia Async Scheduler Thread Timer/INFO]: [WorldGuardRegionProtect] The plugin is already up-to-date. No download needed.
+[18:51:09] [Folia Async Scheduler Thread Timer/INFO]: ========[WorldGuardRegionProtect]========
                Current version: 1.8.2.21
              You are using the latest version.
 =======================================
-[17:17:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:17:48] [Server thread/INFO]: Time elapsed: 343 ms
-[17:17:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[17:17:48] [Server thread/INFO]: Time elapsed: 115 ms
-[17:17:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[17:17:48] [Server thread/INFO]: Time elapsed: 74 ms
-[17:17:48] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1
-[17:17:48] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20-1.20.1 (763)
-[17:17:48] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.9+5934e49
-[17:17:48] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[17:17:48] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[17:17:48] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
-[17:17:48] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[17:17:49] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[17:17:49] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
-[17:17:49] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
-[17:17:49] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
-[17:17:49] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
-[17:17:49] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
-[17:17:49] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
-[17:17:49] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
-[17:17:49] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
-[17:17:49] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
-[17:17:49] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
-[17:17:49] [Server thread/INFO]: [WorldGuard] Loading region data...
-[17:17:49] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[17:17:49] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[17:17:49] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.2.1
-[17:17:49] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
-[17:17:49] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
-[17:17:49] [Server thread/INFO]: [ClearLag] Loading modules...
-[17:17:49] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (net.minecraft.server.v1_20_R1.MinecraftServer)
-[17:17:49] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
-[17:17:49] [Server thread/WARN]: [ClearLag] Invalid entity attribute path="command-remove.remove-entities" token=livetime=2400"
-[17:17:49] [Server thread/WARN]: [ClearLag] Invalid entity attribute path="command-remove.remove-entities" token=livetime=2400"
-[17:17:49] [Server thread/WARN]: [ClearLag] Invalid entity type specified path="area-filter" value=Chest
-[17:17:49] [Server thread/WARN]: [ClearLag] Item type 'log' does not match any Materials found on your Craftbukkit version.
-[17:17:49] [Server thread/WARN]: [ClearLag] Item type 'wool' does not match any Materials found on your Craftbukkit version.
-[17:17:49] [Server thread/WARN]: [ClearLag] Invalid entity attribute path="per-entity-chunk-entity-limiter.entity-limits" token=inGround"
-[17:17:49] [Server thread/INFO]: [ClearLag] Modules have been loaded!
-[17:17:49] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
-[17:17:49] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.22.3
-[17:17:49] [Thread-15/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.20]...
-[17:17:49] [Server thread/INFO]: [spark] Enabling spark v1.10.124
-[17:17:49] [Thread-15/INFO]: [ClearLag] No updates found!
-[17:17:49] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
-[17:17:49] [Server thread/INFO]: [spark] Starting background profiler...
-[17:17:50] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: spark [1.10.124]
-[17:17:50] [Server thread/INFO]: [spark] Registered PlaceholderAPI placeholders
-[17:17:50] [Server thread/INFO]: [BetterRTP] Enabling BetterRTP v3.6.13
-[17:17:50] [Server thread/INFO]: [BetterRTP] Respecting `WorldGuard` was SUCCESSFULLY registered
-[17:17:50] [Server thread/INFO]: [BetterRTP] Cooldown = 60
-[17:17:50] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: betterrtp [3.6.13]
-[17:17:50] [Server thread/INFO]: [PlayerKits2] Enabling PlayerKits2 v1.15.2
-[17:17:50] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: playerkits [1.15.2]
-[17:17:50] [Server thread/INFO]: [PlayerKits²] Has been enabled! Version: 1.15.2
-[17:17:50] [Server thread/INFO]: [PlayerKits²] Thanks for using my plugin!   ~Ajneb97
-[17:17:50] [Server thread/INFO]: There is a new version available. (1.16.1)
-[17:17:50] [Server thread/INFO]: You can download it at: https://modrinth.com/plugin/playerkits-2
-[17:17:50] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[17:17:50] [Server thread/INFO]: 0 placeholder hook(s) registered!
-[17:17:50] [Server thread/INFO]: Running delayed init tasks
-[17:17:50] [Server thread/INFO]: Done (11.097s)! For help, type "help"
-[17:17:50] [Server thread/INFO]: Timings Reset
-[17:17:50] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[17:17:50] [Craft Scheduler Thread - 0 - Vault/INFO]: [Vault] Checking for Updates ... 
-[17:17:50] [Craft Scheduler Thread - 0 - Vault/INFO]: [Vault] No new version available
-[17:18:08] [User Authenticator #0/INFO]: UUID of player C0RR3A_D4 is 9c72a5c0-28c8-3b18-9822-49eeb0c9a0f2
-[17:18:08] [Server thread/INFO]: C0RR3A_D4 joined the game
-[17:18:08] [Server thread/INFO]: C0RR3A_D4[/10.244.211.189:65435] logged in with entity id 35 at ([world]-34.70106513557365, 79.0, 96.1805417807735)
-[17:18:14] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode survival
-[17:18:14] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Survival Mode]
-[17:21:13] [Server thread/INFO]: C0RR3A_D4 has made the advancement [Not Today, Thank You]
-[17:23:48] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode creative
-[17:23:48] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Creative Mode]
-[17:23:49] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode survival
-[17:23:49] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Survival Mode]
-[17:23:50] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode creative
-[17:23:50] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Creative Mode]
-[17:24:08] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode survival
-[17:24:08] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Survival Mode]
-[17:26:00] [Server thread/INFO]: C0RR3A_D4 was slain by Zombie
-[17:26:23] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode spectator
-[17:26:23] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Spectator Mode]
-[17:27:43] [Server thread/INFO]: C0RR3A_D4 issued server command: /locate C0RR3A_D4 C0RR3A_D4
-[17:27:48] [Server thread/INFO]: C0RR3A_D4 issued server command: /locate C0RR3A_D4
-[17:27:54] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode creative
-[17:27:54] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Creative Mode]
-[17:27:56] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode spectator
-[17:27:56] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Spectator Mode]
-[17:28:22] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode creative
-[17:28:22] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Creative Mode]
-[17:29:20] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode survival
-[17:29:20] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Survival Mode]
-[17:29:24] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode creative
-[17:29:24] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Creative Mode]
-[17:29:33] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode survival
-[17:29:33] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Survival Mode]
-[17:30:12] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode creative
-[17:30:12] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Creative Mode]
-[17:30:19] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode survival
-[17:30:19] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Survival Mode]
-[17:33:16] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode creative
-[17:33:16] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Creative Mode]
-[17:33:44] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode survival
-[17:33:44] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Survival Mode]
-[17:33:57] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode creative
-[17:33:57] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Creative Mode]
-[17:34:07] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode survival
-[17:34:07] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Survival Mode]
-[17:34:28] [Server thread/INFO]: C0RR3A_D4 lost connection: Disconnected
-[17:34:28] [Server thread/INFO]: C0RR3A_D4 left the game
-[17:34:32] [Server thread/INFO]: Stopping the server
-[17:34:32] [Server thread/INFO]: Stopping server
-[17:34:32] [Server thread/INFO]: [PlayerKits2] Disabling PlayerKits2 v1.15.2
-[17:34:32] [Server thread/INFO]: [PlayerKits²] Has been disabled! Version: 1.15.2
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Disabling WorldGuardRegionProtect v1.8.2.21
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Saving all configuration files before the plugin shuts down...
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: CONFIG_VERSION
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: LANG
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: SEND_NO_UPDATE
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: UPDATE_CHECKER
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: INTERACT_TYPE
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: VEHICLE_TYPE
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: ANIMAL_TYPE
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: MONSTER_TYPE
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: ENEMY_ENTITY_TYPE
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: MISC_ENTITY_TYPE
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: WATER_MOB_TYPE
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: SIGN_TYPE
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: ENTITY_EXPLODE_TYPE
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: NATURAL_BLOCK_OR_ITEM
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_COLLISION_WITH_VEHICLE
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_SIT_AS_PASSENGER_IN_VEHICLE
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_DAMAGE_VEHICLE
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_TAKE_LECTERN_BOOK
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_MANIPULATE_WITH_FLOWERPOT
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_LAVA_FLOW_TO_REGION
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_FORM_BLOCK_FROM_LAVA_AND_WATER
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_CREATURE_SPAWN
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_MOB_SPAWN_FROM_SPAWNER
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_MOB_NATURALLY_SPAWN
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_WATER_FLOW_TO_REGION
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_INTERACT_WITH_FLOWER_POT
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_PLACE_ITEM_FRAME_OR_PAINTING
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_INTERACT_WITH_ITEM_FRAME
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_DAMAGE_ITEM_FRAME_OR_PAINTING
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_STONECUTTER_RECIPE_SELECT
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_LOOM_PATTERN_SELECT
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: CMD_WE
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: CMD_WE_C
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: CMD_WE_P
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: CMD_WE_S
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: CMD_WE_U
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: CMD_WE_CP
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_EXPLODE_ENTITY
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: REGION_MESSAGE_PROTECT
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: REGION_MESSAGE_PROTECT_WE
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: IS_SPY_COMMAND_NOTIFY_CONSOLE_ENABLE
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: IS_SPY_COMMAND_NOTIFY_ADMIN_ENABLE
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: IS_SPY_COMMAND_NOTIFY_ADMIN_PLAY_SOUND_ENABLE
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: SPY_COMMAND_NOTIFY_PLAY_SOUND_TYPE
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: SPY_COMMAND_LIST
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_ENABLE
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_HOST
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_PORT
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_DATABASE
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_USER
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_PASSWORD
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_TABLE
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_MAX_POOL_SIZE
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_MAX_LIFE_TIME
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_CONNECTION_TIMEOUT
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_USE_SSL
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_INTERVAL_RELOAD
-[17:34:32] [Server thread/INFO]: [WorldGuardRegionProtect] Saved complete. Good luck and thanks for using WorldGuardRegionProtect!
-[17:34:32] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.2
-[17:34:32] [Server thread/INFO]: [spark] Disabling spark v1.10.124
-[17:34:32] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v2.22.3
-[17:34:32] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
-[17:34:32] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
-[17:34:32] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.2.1
-[17:34:32] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
-[17:34:32] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.9+5934e49
-[17:34:32] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
-[17:34:32] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.1+6763-2e55f4f
-[17:34:32] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[17:34:32] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
-[17:34:32] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.153
-[17:34:32] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[17:34:32] [Server thread/INFO]: [LuckPerms] Closing storage...
-[17:34:32] [Server thread/INFO]: [LuckPerms] Goodbye!
-[17:34:32] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.1
-[17:34:32] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[17:34:32] [Server thread/INFO]: Saving players
-[17:34:32] [Server thread/INFO]: Saving worlds
-[17:34:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:34:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[17:34:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[17:34:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[17:34:33] [Server thread/INFO]: [ChunkHolderManager] Saved 232 block chunks, 218 entity chunks, 0 poi chunks in world 'world' in 0.27s
-[17:34:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:34:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[17:34:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[17:34:33] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[17:34:33] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[17:34:33] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[17:34:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:34:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[17:34:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[17:34:33] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[17:34:33] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[17:34:33] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[17:34:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:34:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[17:34:33] [Server thread/INFO]: Flushing Chunk IO
-[17:34:33] [Server thread/INFO]: Closing Thread Pool
-[17:34:33] [Server thread/INFO]: Closing Server
+[18:51:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:51:13] [Server thread/INFO]: Time elapsed: 762 ms
+[18:51:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:51:13] [Server thread/INFO]: Time elapsed: 34 ms
+[18:51:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:51:13] [Server thread/INFO]: Time elapsed: 37 ms
+[18:51:13] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1
+[18:51:13] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20-1.20.1 (763)
+[18:51:13] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.9+5934e49
+[18:51:14] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[18:51:14] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[18:51:14] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[18:51:14] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[18:51:14] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[18:51:14] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[18:51:14] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[18:51:14] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[18:51:14] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[18:51:14] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[18:51:14] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[18:51:14] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[18:51:14] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[18:51:14] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[18:51:14] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[18:51:14] [Server thread/INFO]: [WorldGuard] Loading region data...
+[18:51:14] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[18:51:14] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[18:51:14] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.2.1
+[18:51:14] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[18:51:14] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[18:51:14] [Server thread/INFO]: [ClearLag] Loading modules...
+[18:51:14] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (net.minecraft.server.v1_20_R1.MinecraftServer)
+[18:51:14] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[18:51:14] [Server thread/WARN]: [ClearLag] Invalid entity attribute path="command-remove.remove-entities" token=livetime=2400"
+[18:51:14] [Server thread/WARN]: [ClearLag] Invalid entity attribute path="command-remove.remove-entities" token=livetime=2400"
+[18:51:15] [Server thread/WARN]: [ClearLag] Invalid entity type specified path="area-filter" value=Chest
+[18:51:15] [Server thread/WARN]: [ClearLag] Item type 'log' does not match any Materials found on your Craftbukkit version.
+[18:51:15] [Server thread/WARN]: [ClearLag] Item type 'wool' does not match any Materials found on your Craftbukkit version.
+[18:51:15] [Server thread/WARN]: [ClearLag] Invalid entity attribute path="per-entity-chunk-entity-limiter.entity-limits" token=inGround"
+[18:51:15] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[18:51:15] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[18:51:15] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.22.3
+[18:51:15] [Thread-15/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.20]...
+[18:51:15] [Server thread/INFO]: [spark] Enabling spark v1.10.124
+[18:51:15] [Thread-15/INFO]: [ClearLag] No updates found!
+[18:51:15] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
+[18:51:15] [Server thread/INFO]: [spark] Starting background profiler...
+[18:51:16] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: spark [1.10.124]
+[18:51:16] [Server thread/INFO]: [spark] Registered PlaceholderAPI placeholders
+[18:51:16] [Server thread/INFO]: [BetterRTP] Enabling BetterRTP v3.6.13
+[18:51:17] [Server thread/INFO]: [BetterRTP] Respecting `WorldGuard` was SUCCESSFULLY registered
+[18:51:17] [Server thread/INFO]: [BetterRTP] Cooldown = 60
+[18:51:17] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: betterrtp [3.6.13]
+[18:51:17] [Server thread/INFO]: [PlayerKits2] Enabling PlayerKits2 v1.15.2
+[18:51:17] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: playerkits [1.15.2]
+[18:51:17] [Server thread/INFO]: [PlayerKits²] Has been enabled! Version: 1.15.2
+[18:51:17] [Server thread/INFO]: [PlayerKits²] Thanks for using my plugin!   ~Ajneb97
+[18:51:17] [Server thread/INFO]: There is a new version available. (1.16.1)
+[18:51:17] [Server thread/INFO]: You can download it at: https://modrinth.com/plugin/playerkits-2
+[18:51:17] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[18:51:17] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[18:51:17] [Server thread/INFO]: Running delayed init tasks
+[18:51:17] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[18:51:17] [Server thread/INFO]: Done (19.871s)! For help, type "help"
+[18:51:17] [Server thread/INFO]: Timings Reset
+[18:51:17] [Craft Scheduler Thread - 5 - Vault/INFO]: [Vault] Checking for Updates ... 
+[18:51:17] [Craft Scheduler Thread - 5 - Vault/INFO]: [Vault] No new version available
+[18:51:34] [User Authenticator #0/INFO]: UUID of player C0RR3A_D4 is 9c72a5c0-28c8-3b18-9822-49eeb0c9a0f2
+[18:51:34] [Server thread/INFO]: C0RR3A_D4 joined the game
+[18:51:35] [Server thread/INFO]: C0RR3A_D4[/10.244.211.189:54202] logged in with entity id 52 at ([world]-165.30000001192093, 79.0, -79.60810702852294)
+[18:52:28] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode creative
+[18:52:28] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Creative Mode]
+[18:53:10] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode survival
+[18:53:10] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Survival Mode]
