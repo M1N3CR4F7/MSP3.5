@@ -1,17 +1,17 @@
-[20:04:55] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:04:56] [ServerMain/INFO]: Loaded 7 recipes
-[20:04:56] [ServerMain/INFO]: Loaded 1271 advancements
-[20:04:57] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[20:04:57] [Server thread/INFO]: Loading properties
-[20:04:57] [Server thread/INFO]: Default game type: SURVIVAL
-[20:04:57] [Server thread/INFO]: Generating keypair
-[20:04:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:04:57] [Server thread/INFO]: Using epoll channel type
-[20:04:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:04:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:04:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:04:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:04:57] [Server thread/WARN]: Failed to load white-list: 
+[23:13:45] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:13:47] [ServerMain/INFO]: Loaded 7 recipes
+[23:13:47] [ServerMain/INFO]: Loaded 1271 advancements
+[23:13:48] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[23:13:48] [Server thread/INFO]: Loading properties
+[23:13:48] [Server thread/INFO]: Default game type: SURVIVAL
+[23:13:48] [Server thread/INFO]: Generating keypair
+[23:13:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:13:48] [Server thread/INFO]: Using epoll channel type
+[23:13:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:13:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:13:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:13:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:13:48] [Server thread/WARN]: Failed to load white-list: 
 com.google.gson.JsonSyntaxException: Expected entry to be a JsonObject, was null (json)
 	at aor.m(SourceFile:413) ~[server-1.20.1.jar:?]
 	at alp.f(SourceFile:122) ~[server-1.20.1.jar:?]
@@ -21,43 +21,39 @@ com.google.gson.JsonSyntaxException: Expected entry to be a JsonObject, was null
 	at net.minecraft.server.MinecraftServer.w(SourceFile:646) ~[server-1.20.1.jar:?]
 	at net.minecraft.server.MinecraftServer.a(SourceFile:265) ~[server-1.20.1.jar:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[20:04:57] [Server thread/INFO]: Preparing level "world"
-[20:05:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:05:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:05:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:05:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:05:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:05:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:05:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:05:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:05:03] [Worker-Main-2/INFO]: Preparing spawn area: 48%
-[20:05:03] [Server thread/INFO]: Time elapsed: 3838 ms
-[20:05:03] [Server thread/INFO]: Done (6.387s)! For help, type "help"
-[20:05:12] [Server thread/INFO]: C0RR3A_D4[/10.244.211.189:58303] logged in with entity id 113 at (-11.5, 64.0, 18.5)
-[20:05:12] [Server thread/INFO]: C0RR3A_D4 joined the game
-[20:05:18] [Server thread/INFO]: Charyutu[/10.244.211.189:58310] logged in with entity id 299 at (-20.5, 69.0, 23.5)
-[20:05:18] [Server thread/INFO]: Charyutu joined the game
-[20:06:57] [Server thread/INFO]: C0RR3A_D4 lost connection: Timed out
-[20:06:57] [Server thread/INFO]: C0RR3A_D4 left the game
-[20:07:15] [Server thread/INFO]: Charyutu lost connection: Disconnected
-[20:07:15] [Server thread/INFO]: Charyutu left the game
-[20:08:04] [Server thread/INFO]: C0RR3A_D4[/10.244.211.189:58507] logged in with entity id 1427 at (-11.5, 64.0, 18.5)
-[20:08:04] [Server thread/INFO]: C0RR3A_D4 joined the game
-[20:10:09] [Server thread/INFO]: C0RR3A_D4 has made the advancement [Stone Age]
-[20:10:30] [Server thread/INFO]: C0RR3A_D4 has made the advancement [Getting an Upgrade]
-[20:23:58] [Server thread/INFO]: C0RR3A_D4 has made the advancement [A Seedy Place]
-[20:24:47] [Server thread/INFO]: C0RR3A_D4 has made the advancement [Acquire Hardware]
-[20:25:26] [Server thread/INFO]: C0RR3A_D4 has made the advancement [Isn't It Iron Pick]
-[20:26:56] [Server thread/INFO]: C0RR3A_D4 has made the advancement [Suit Up]
-[20:30:07] [Server thread/INFO]: C0RR3A_D4 lost connection: Disconnected
-[20:30:07] [Server thread/INFO]: C0RR3A_D4 left the game
-[20:32:04] [Server thread/INFO]: Charyutu[/10.244.211.189:59792] logged in with entity id 6469 at (-20.5, 69.0, 23.5)
-[20:32:04] [Server thread/INFO]: Charyutu joined the game
-[20:34:09] [Server thread/INFO]: Charyutu has made the advancement [Stone Age]
-[20:34:25] [Server thread/INFO]: Charyutu has made the advancement [Getting an Upgrade]
-[20:41:14] [Server thread/INFO]: Charyutu lost connection: Disconnected
-[20:41:14] [Server thread/INFO]: Charyutu left the game
-[20:41:57] [Server thread/INFO]: Charyutu[/10.244.211.189:60330] logged in with entity id 9042 at (-63.69999998807907, 71.0, 28.645083565889962)
-[20:41:57] [Server thread/INFO]: Charyutu joined the game
-[20:42:13] [Server thread/INFO]: Charyutu lost connection: Disconnected
-[20:42:13] [Server thread/INFO]: Charyutu left the game
+[23:13:48] [Server thread/INFO]: Preparing level "world"
+[23:13:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:13:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:13:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:13:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:13:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:13:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:13:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:13:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:13:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:13:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:13:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:13:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:13:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:13:57] [Worker-Main-1/INFO]: Preparing spawn area: 23%
+[23:13:58] [Worker-Main-3/INFO]: Preparing spawn area: 96%
+[23:13:58] [Server thread/INFO]: Time elapsed: 6622 ms
+[23:13:58] [Server thread/INFO]: Done (9.986s)! For help, type "help"
+[23:14:20] [Server thread/INFO]: Charyutu[/10.244.211.189:51234] logged in with entity id 137 at (-64.45871250636367, 78.0, 23.644208046873512)
+[23:14:20] [Server thread/INFO]: Charyutu joined the game
+[23:14:32] [Server thread/INFO]: Charyutu lost connection: Disconnected
+[23:14:32] [Server thread/INFO]: Charyutu left the game
+[23:20:38] [Server thread/INFO]: C0RR3A_D4[/10.244.211.189:51490] logged in with entity id 646 at (-163.91213048835237, 82.24918707874468, 194.1224635708921)
+[23:20:38] [Server thread/INFO]: C0RR3A_D4 joined the game
+[23:21:11] [Server thread/INFO]: C0RR3A_D4 lost connection: Timed out
+[23:21:11] [Server thread/INFO]: C0RR3A_D4 left the game
+[23:21:21] [Server thread/INFO]: C0RR3A_D4[/10.244.211.189:51496] logged in with entity id 1656 at (-193.95198494580993, 80.25220334025373, 205.75650430448152)
+[23:21:21] [Server thread/INFO]: C0RR3A_D4 joined the game
+[23:21:56] [Server thread/INFO]: C0RR3A_D4 lost connection: Timed out
+[23:21:56] [Server thread/INFO]: C0RR3A_D4 left the game
+[23:22:05] [Server thread/INFO]: C0RR3A_D4[/10.244.211.189:51503] logged in with entity id 2588 at (-193.95198494580993, 80.25220334025373, 205.75650430448152)
+[23:22:05] [Server thread/INFO]: C0RR3A_D4 joined the game
+[23:22:39] [Server thread/INFO]: C0RR3A_D4 lost connection: Timed out
+[23:22:39] [Server thread/INFO]: C0RR3A_D4 left the game
+[23:23:02] [Server thread/INFO]: C0RR3A_D4[/10.244.211.189:51518] logged in with entity id 3524 at (-193.95198494580993, 78.1426507935137, 205.75650430448152)
+[23:23:02] [Server thread/INFO]: C0RR3A_D4 joined the game
