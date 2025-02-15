@@ -1,35 +1,34 @@
 langTitle:
   language: Español
-  author: C0RR3A_D4
-  version: 2
+  author: RSTeamCore, FabriCanoSolitario
+  version: 1
 messages:
   ServerMsg:
-    wgrpMsg: '<dark_gray>[<dark_red>AVISO<dark_gray>]<green> Esta región está protegida por el server!'
-    wgrpMsgWe: '<dark_gray>[<dark_red>AVISO<dark_gray>]<red> No puedes usar el WorldEdit aquí!'
+    wgrpMsg: '<dark_gray>[<dark_red>WGRP<dark_gray>]<green> ¡Esta región está protegida por el servidor!'
+    wgrpMsgWe: '<dark_gray>[<dark_red>WGRP<dark_gray>]<red> ¡No puedes usaraquí el comando worldedit!'
     noPerm: '<red>No tienes permiso para usar este comando.'
   regionManagement:
-    add: '<green>Region <gold><region><green> añadida a la configuración.'
-    remove: '<red>Region <gold><region><red> eliminada de la configuración.'
-    notContains: '<red>No se pudo eliminar la region de la lista de regiones, porque la región <gold><region> <red>no está protegida!'
-    alreadyProtected: '<red>Region <gold><region><red> ya fua añadida anteriormente.'
-    invalidWorld: '<red>El mundo <gold><world><red> no fue encontrado. Estás seguro de haber escrito el nombre correctamente?'
-    invalidRegion: '<red>La región <gold><region><red> no fue encontrada. Estás seguro de haber escrito el nombre correctamente?'
-
+    add: "<green>Región <gold><region><green> añadida a la configuración."
+    remove: "<red>Región <gold><region><red> eliminada de la configuración."
+    notContains: "<red>¡No se pudo eliminar la región de la lista de protección, porque <gold><region> <red>no está protegida!"
+    alreadyProtected: '<red>Region <gold><region><red> is already added to protect.'
+    invalidWorld: "<red>Mundo <gold><world><red> no encontrado. ¿Estás seguro de que has introducido el nombre del mundo correctamente?"
+    invalidRegion: "<red>Región <gold><region><red> no encontrada. ¿Estás seguro de que has introducido el nombre correcto de la región?"
   Configs:
-    configReloaded: '<dark_gray>[<red>WGRP<dark_gray>] <green>All files reloaded at <time> ms!'
+    configReloaded: '<dark_gray>[<dark_red>WGRP<dark_gray>] <green>¡Todos los archivos recargados en <time> ms!'
   Notify:
-    sendAdminInfoIfUsedCommandInRG: '<dark_gray>[<dark_red>!<dark_gray>]<red>Atención! El usuario <yellow><player><red> está intentando usar el comando <dark_purple><cmd><red> en la región: <dark_aqua><region>'
-    sendAdminInfoIfActionInRegion: '<dark_gray>[<dark_red>!<dark_gray>]<red>Attention! <yellow><player> <gold><action><red> Bloque en región: <dark_aqua><region><red> Ubicado en: <dark_aqua><x> <y> <z> <world>'
+    sendAdminInfoIfUsedCommandInRG: '<dark_gray>[<dark_red>!<dark_gray>]<red>¡Atención! <yellow><player><red> intentando usar el comando <dark_purple><cmd><red> en la región: <dark_aqua><region>'
+    sendAdminInfoIfActionInRegion: '<dark_gray>[<dark_red>!<dark_gray>]<red>¡Atención! <yellow><player> <gold><action><red> bloqueada en la región: <dark_aqua><region><red> Ubicación <dark_aqua><x> <y> <z> <world>'
   usage:
-    title: '<dark_gray>[<red>AVISO<dark_gray>]<dark_aqua> Uso correcto del comando: <gold>%command%'
+    title: '<dark_gray>[<dark_red>WGRP<dark_gray>]<dark_aqua> Uso para el comando <gold>%command%'
     format: ' <green>%command% %alias% <dark_green>%tabArgs%<dark_aqua>-<yellow>%description%'
-    wgrpUseHelp: '<green>Usa: <yellow>/wgrp help - <gold>para ver la lista de comandos.'
-    addRegionFromConsole: '<green>Uso correcto: <yellow>/wgrp addregion <dark_green>[region] [world]'
-    removeRegionFromConsole: '<green>Uso correcto: <yellow>/wgrp removeregion <dark_green>[region] [world]'
+    wgrpUseHelp: '<green>Uso: <yellow>/wgrp help - <gold>para ver una lista de comandos.'
+    addRegionFromConsole: '<green>Uso: <yellow>/wgrp addregion <dark_green>[región] [mundo]'
+    removeRegionFromConsole: '<green>Uso: <yellow>/wgrp removeregion <dark_green>[región] [mundo]'
   subCommands:
-    reload: 'archivos de configuración recargados.'
-    about: 'viendo la info. de los autores.'
-    spy: 'spy for who interact with region.'
-    help: 'for seen helping.'
-    addRegion: 'add a region to the config to protect.'
-    removeRegion: 'remove the region from the config to remove the protection.'
+    reload: 'recargar los archivos de configuración.'
+    about: 'ver información sobre los autores.'
+    spy: 'espiar a quienes interactúan con la región.'
+    help: 'para ver por ayuda.'
+    addRegion: 'añadir una región a la configuración para proteger.'
+    removeRegion: 'eliminar la región de la configuración para eliminar la protección.'
