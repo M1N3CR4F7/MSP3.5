@@ -232,3 +232,46 @@
 [19:08:06] [Server thread/INFO]: C0RR3A_D4 has made the advancement [A Seedy Place]
 [19:10:15] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode creative
 [19:10:15] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Creative Mode]
+[19:10:55] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode survival
+[19:10:55] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Survival Mode]
+[19:10:57] [Server thread/INFO]: C0RR3A_D4 has made the advancement [Hot Stuff]
+[19:12:09] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamerule lavaSourceConversion true
+[19:12:09] [Server thread/INFO]: [C0RR3A_D4: Gamerule lavaSourceConversion is now set to: true]
+[19:12:35] [Server thread/INFO]: C0RR3A_D4 burned to death
+[19:13:29] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode creative
+[19:13:29] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Creative Mode]
+[19:13:34] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode survival
+[19:13:34] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Survival Mode]
+[19:15:23] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamerule lavaSourceConversion false
+[19:15:23] [Server thread/INFO]: [C0RR3A_D4: Gamerule lavaSourceConversion is now set to: false]
+[19:15:28] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode creative
+[19:15:28] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Creative Mode]
+[19:15:35] [Server thread/INFO]: C0RR3A_D4 has made the advancement [Ice Bucket Challenge]
+[19:15:54] [Server thread/INFO]: C0RR3A_D4 issued server command: /summon minecraft:fireball
+[19:15:54] [Server thread/INFO]: [C0RR3A_D4: Summoned new Fireball]
+[19:16:05] [Server thread/INFO]: C0RR3A_D4 issued server command: /summon minecraft:fireball
+[19:16:05] [Server thread/INFO]: [C0RR3A_D4: Summoned new Fireball]
+[19:16:07] [Server thread/INFO]: C0RR3A_D4 issued server command: /summon minecraft:fireball
+[19:16:07] [Server thread/INFO]: [C0RR3A_D4: Summoned new Fireball]
+[19:16:32] [Server thread/INFO]: C0RR3A_D4 issued server command: /summon minecraft:firework_rocket
+[19:16:32] [Server thread/INFO]: [C0RR3A_D4: Summoned new Firework Rocket]
+[19:17:24] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode survival
+[19:17:24] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Survival Mode]
+[19:17:30] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode creative
+[19:17:30] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Creative Mode]
+[19:17:33] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode survival
+[19:17:33] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Survival Mode]
+[19:17:36] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode creative
+[19:17:36] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Creative Mode]
+[19:17:38] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode survival
+[19:17:38] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Survival Mode]
+[19:18:30] [Server thread/INFO]: C0RR3A_D4 has made the advancement [We Need to Go Deeper]
+[19:18:56] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode creative
+[19:18:56] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Creative Mode]
+[19:19:21] [Server thread/INFO]: Incorrect argument for command
+...ifficulty paceful<--[HERE]
+[19:19:27] [Server thread/INFO]: The difficulty has been set to Peaceful
+[19:19:32] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode survival
+[19:19:32] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Survival Mode]
+[19:20:38] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode creative
+[19:20:38] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Creative Mode]
