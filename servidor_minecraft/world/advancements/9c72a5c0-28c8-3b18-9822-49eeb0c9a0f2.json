@@ -748,6 +748,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-15 17:21:23 +0000",
+      "minecraft:zombified_piglin": "2025-02-15 19:20:59 +0000",
       "minecraft:zombie": "2025-02-15 15:50:06 +0000"
     },
     "done": false
@@ -1142,6 +1143,19 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-02-15 19:20:36 +0000",
+      "minecraft:soul_sand_valley": "2025-02-15 19:18:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-15 19:18:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-02-15 19:15:35 +0000"
@@ -1160,6 +1174,18 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-15 19:18:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-15 19:21:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-02-15 19:15:35 +0000"
@@ -1172,9 +1198,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-15 19:21:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-02-15 19:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-02-15 19:18:47 +0000"
     },
     "done": true
   },

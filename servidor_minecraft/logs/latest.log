@@ -275,3 +275,111 @@
 [19:19:32] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Survival Mode]
 [19:20:38] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode creative
 [19:20:38] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Creative Mode]
+[19:21:04] [Server thread/INFO]: C0RR3A_D4 lost connection: Disconnected
+[19:21:04] [Server thread/INFO]: C0RR3A_D4 left the game
+[19:21:07] [Server thread/INFO]: Stopping the server
+[19:21:07] [Server thread/INFO]: Stopping server
+[19:21:07] [Server thread/INFO]: [PlayerKits2] Disabling PlayerKits2 v1.15.2
+[19:21:07] [Server thread/INFO]: [PlayerKits²] Has been disabled! Version: 1.15.2
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Disabling WorldGuardRegionProtect v1.8.2.21
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Saving all configuration files before the plugin shuts down...
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: CONFIG_VERSION
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: LANG
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: SEND_NO_UPDATE
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: UPDATE_CHECKER
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: INTERACT_TYPE
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: VEHICLE_TYPE
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: ANIMAL_TYPE
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: MONSTER_TYPE
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: ENEMY_ENTITY_TYPE
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: MISC_ENTITY_TYPE
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: WATER_MOB_TYPE
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: SIGN_TYPE
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: ENTITY_EXPLODE_TYPE
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: NATURAL_BLOCK_OR_ITEM
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_COLLISION_WITH_VEHICLE
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_SIT_AS_PASSENGER_IN_VEHICLE
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_DAMAGE_VEHICLE
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_TAKE_LECTERN_BOOK
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_MANIPULATE_WITH_FLOWERPOT
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_LAVA_FLOW_TO_REGION
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_FORM_BLOCK_FROM_LAVA_AND_WATER
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_CREATURE_SPAWN
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_MOB_SPAWN_FROM_SPAWNER
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_MOB_NATURALLY_SPAWN
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_WATER_FLOW_TO_REGION
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_INTERACT_WITH_FLOWER_POT
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_PLACE_ITEM_FRAME_OR_PAINTING
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_INTERACT_WITH_ITEM_FRAME
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_DAMAGE_ITEM_FRAME_OR_PAINTING
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_STONECUTTER_RECIPE_SELECT
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_LOOM_PATTERN_SELECT
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: CMD_WE
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: CMD_WE_C
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: CMD_WE_P
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: CMD_WE_S
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: CMD_WE_U
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: CMD_WE_CP
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_EXPLODE_ENTITY
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: REGION_MESSAGE_PROTECT
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: REGION_MESSAGE_PROTECT_WE
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: IS_SPY_COMMAND_NOTIFY_CONSOLE_ENABLE
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: IS_SPY_COMMAND_NOTIFY_ADMIN_ENABLE
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: IS_SPY_COMMAND_NOTIFY_ADMIN_PLAY_SOUND_ENABLE
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: SPY_COMMAND_NOTIFY_PLAY_SOUND_TYPE
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: SPY_COMMAND_LIST
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_ENABLE
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_HOST
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_PORT
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_DATABASE
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_USER
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_PASSWORD
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_TABLE
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_MAX_POOL_SIZE
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_MAX_LIFE_TIME
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_CONNECTION_TIMEOUT
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_USE_SSL
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_INTERVAL_RELOAD
+[19:21:07] [Server thread/INFO]: [WorldGuardRegionProtect] Saved complete. Good luck and thanks for using WorldGuardRegionProtect!
+[19:21:07] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.2
+[19:21:07] [Server thread/INFO]: [spark] Disabling spark v1.10.124
+[19:21:07] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v2.22.3
+[19:21:07] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[19:21:07] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[19:21:07] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.2.1
+[19:21:07] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[19:21:07] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.9+5934e49
+[19:21:07] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[19:21:07] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.1+6763-2e55f4f
+[19:21:07] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[19:21:07] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[19:21:07] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.153
+[19:21:07] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[19:21:07] [Server thread/INFO]: [LuckPerms] Closing storage...
+[19:21:07] [Server thread/INFO]: [LuckPerms] Goodbye!
+[19:21:07] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.1
+[19:21:07] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[19:21:07] [Server thread/INFO]: Saving players
+[19:21:07] [Server thread/INFO]: Saving worlds
+[19:21:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:21:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[19:21:07] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[19:21:07] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[19:21:07] [Server thread/INFO]: [ChunkHolderManager] Saved 323 block chunks, 85 entity chunks, 1 poi chunks in world 'world' in 0.25s
+[19:21:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:21:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[19:21:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[19:21:08] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[19:21:08] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[19:21:09] [Server thread/INFO]: [ChunkHolderManager] Saved 1633 block chunks, 598 entity chunks, 2 poi chunks in world 'world_nether' in 0.93s
+[19:21:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:21:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[19:21:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[19:21:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[19:21:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[19:21:09] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[19:21:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:21:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:21:09] [Server thread/INFO]: Flushing Chunk IO
+[19:21:09] [Server thread/INFO]: Closing Thread Pool
+[19:21:09] [Server thread/INFO]: Closing Server

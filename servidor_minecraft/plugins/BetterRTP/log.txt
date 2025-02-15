@@ -32,3 +32,4 @@
 2025-02-15 18:51:17 [INFO]: Database COOLDOWN:world_the_end configured and loaded!
 2025-02-15 18:51:17 [INFO]: Database PLAYERS:Players configured and loaded!
 2025-02-15 18:51:17 [INFO]: Database CHUNK_DATA:ChunkData configured and loaded!
+2025-02-15 19:21:07 [INFO]: Disabling BetterRTP v3.6.13
