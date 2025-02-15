@@ -221,3 +221,119 @@
 [16:34:04] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
 [16:34:04] [Craft Scheduler Thread - 5 - Vault/INFO]: [Vault] Checking for Updates ... 
 [16:34:04] [Craft Scheduler Thread - 5 - Vault/INFO]: [Vault] No new version available
+[16:49:53] [Server thread/INFO]: Unknown or incomplete command, see below for error
+stopsound<--[HERE]
+[16:50:16] [Server thread/INFO]: No player was found
+[16:50:22] [Server thread/INFO]: A player is required to run this command here
+[16:50:36] [User Authenticator #0/INFO]: UUID of player C0RR3A_D4 is 9c72a5c0-28c8-3b18-9822-49eeb0c9a0f2
+[16:50:36] [Server thread/INFO]: C0RR3A_D4 joined the game
+[16:50:36] [Server thread/INFO]: C0RR3A_D4[/10.244.211.189:63801] logged in with entity id 34 at ([world]-34.70106513557365, 79.0, 96.1805417807735)
+[16:50:41] [Server thread/INFO]: C0RR3A_D4 issued server command: /reset
+[16:50:47] [Server thread/INFO]: C0RR3A_D4 issued server command: /restart
+[16:50:47] [Server thread/INFO]: [STDOUT] [org.spigotmc.RestartCommand] Startup script './start.sh' does not exist! Stopping server.
+[16:50:47] [Server thread/INFO]: C0RR3A_D4 lost connection: Server is restarting
+[16:50:47] [Server thread/INFO]: C0RR3A_D4 left the game
+[16:50:47] [Server thread/INFO]: Stopping server
+[16:50:47] [Server thread/INFO]: [PlayerKits2] Disabling PlayerKits2 v1.15.2
+[16:50:47] [Server thread/INFO]: [PlayerKits²] Has been disabled! Version: 1.15.2
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Disabling WorldGuardRegionProtect v1.8.2.21
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Saving all configuration files before the plugin shuts down...
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: CONFIG_VERSION
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: LANG
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: SEND_NO_UPDATE
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: UPDATE_CHECKER
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: INTERACT_TYPE
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: VEHICLE_TYPE
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: ANIMAL_TYPE
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: MONSTER_TYPE
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: ENEMY_ENTITY_TYPE
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: MISC_ENTITY_TYPE
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: WATER_MOB_TYPE
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: SIGN_TYPE
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: ENTITY_EXPLODE_TYPE
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: NATURAL_BLOCK_OR_ITEM
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_COLLISION_WITH_VEHICLE
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_SIT_AS_PASSENGER_IN_VEHICLE
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_DAMAGE_VEHICLE
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_TAKE_LECTERN_BOOK
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_MANIPULATE_WITH_FLOWERPOT
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_LAVA_FLOW_TO_REGION
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_FORM_BLOCK_FROM_LAVA_AND_WATER
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_CREATURE_SPAWN
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_MOB_SPAWN_FROM_SPAWNER
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_MOB_NATURALLY_SPAWN
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_WATER_FLOW_TO_REGION
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_INTERACT_WITH_FLOWER_POT
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_PLACE_ITEM_FRAME_OR_PAINTING
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_INTERACT_WITH_ITEM_FRAME
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_DAMAGE_ITEM_FRAME_OR_PAINTING
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_STONECUTTER_RECIPE_SELECT
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_LOOM_PATTERN_SELECT
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: CMD_WE
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: CMD_WE_C
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: CMD_WE_P
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: CMD_WE_S
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: CMD_WE_U
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: CMD_WE_CP
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DENY_EXPLODE_ENTITY
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: REGION_MESSAGE_PROTECT
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: REGION_MESSAGE_PROTECT_WE
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: IS_SPY_COMMAND_NOTIFY_CONSOLE_ENABLE
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: IS_SPY_COMMAND_NOTIFY_ADMIN_ENABLE
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: IS_SPY_COMMAND_NOTIFY_ADMIN_PLAY_SOUND_ENABLE
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: SPY_COMMAND_NOTIFY_PLAY_SOUND_TYPE
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: SPY_COMMAND_LIST
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_ENABLE
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_HOST
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_PORT
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_DATABASE
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_USER
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_PASSWORD
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_TABLE
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_MAX_POOL_SIZE
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_MAX_LIFE_TIME
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_CONNECTION_TIMEOUT
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_USE_SSL
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully checked and saved fields: DATA_SOURCE_INTERVAL_RELOAD
+[16:50:47] [Server thread/INFO]: [WorldGuardRegionProtect] Saved complete. Good luck and thanks for using WorldGuardRegionProtect!
+[16:50:47] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.2
+[16:50:47] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v2.22.3
+[16:50:47] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[16:50:47] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[16:50:47] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.2.1
+[16:50:47] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[16:50:47] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.9+5934e49
+[16:50:47] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[16:50:47] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.1+6763-2e55f4f
+[16:50:47] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[16:50:47] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[16:50:47] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.153
+[16:50:47] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[16:50:47] [Server thread/INFO]: [LuckPerms] Closing storage...
+[16:50:47] [Server thread/INFO]: [LuckPerms] Goodbye!
+[16:50:47] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.1
+[16:50:47] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[16:50:47] [Server thread/INFO]: Saving players
+[16:50:47] [Server thread/INFO]: Saving worlds
+[16:50:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:50:47] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[16:50:47] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[16:50:47] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[16:50:48] [Server thread/INFO]: [ChunkHolderManager] Saved 286 block chunks, 304 entity chunks, 0 poi chunks in world 'world' in 0.50s
+[16:50:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:50:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[16:50:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[16:50:48] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[16:50:48] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[16:50:48] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[16:50:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:50:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[16:50:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[16:50:48] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[16:50:48] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[16:50:48] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[16:50:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:50:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:50:48] [Server thread/INFO]: Flushing Chunk IO
+[16:50:48] [Server thread/INFO]: Closing Thread Pool
+[16:50:48] [Server thread/INFO]: Closing Server

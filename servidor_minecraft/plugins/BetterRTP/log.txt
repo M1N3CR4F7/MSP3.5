@@ -32,3 +32,4 @@
 2025-02-15 16:34:04 [INFO]: Database COOLDOWN:world configured and loaded!
 2025-02-15 16:34:04 [INFO]: Database COOLDOWN:world_nether configured and loaded!
 2025-02-15 16:34:04 [INFO]: Database COOLDOWN:world_the_end configured and loaded!
+2025-02-15 16:50:47 [INFO]: Disabling BetterRTP v3.6.13
