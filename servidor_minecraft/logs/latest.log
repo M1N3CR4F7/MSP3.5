@@ -1,78 +1,47 @@
-[20:00:43] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:00:45] [ServerMain/INFO]: Loaded 7 recipes
-[20:00:45] [ServerMain/INFO]: Loaded 1271 advancements
-[20:00:45] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[20:00:45] [Server thread/INFO]: Loading properties
-[20:00:45] [Server thread/INFO]: Default game type: SURVIVAL
-[20:00:45] [Server thread/INFO]: Generating keypair
-[20:00:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:00:45] [Server thread/INFO]: Using epoll channel type
-[20:00:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:00:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:00:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:00:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:00:45] [Server thread/INFO]: Preparing level "world"
-[20:00:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:00:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:00:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:00:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:00:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:00:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:00:53] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[20:00:54] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[20:00:54] [Worker-Main-2/INFO]: Preparing spawn area: 3%
-[20:00:55] [Worker-Main-1/INFO]: Preparing spawn area: 4%
-[20:00:55] [Worker-Main-2/INFO]: Preparing spawn area: 5%
-[20:00:56] [Worker-Main-3/INFO]: Preparing spawn area: 7%
-[20:00:56] [Worker-Main-3/INFO]: Preparing spawn area: 9%
-[20:00:57] [Worker-Main-3/INFO]: Preparing spawn area: 9%
-[20:00:57] [Worker-Main-2/INFO]: Preparing spawn area: 11%
-[20:00:58] [Worker-Main-2/INFO]: Preparing spawn area: 13%
-[20:00:58] [Worker-Main-3/INFO]: Preparing spawn area: 15%
-[20:00:59] [Worker-Main-2/INFO]: Preparing spawn area: 16%
-[20:00:59] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[20:01:00] [Worker-Main-2/INFO]: Preparing spawn area: 22%
-[20:01:00] [Worker-Main-3/INFO]: Preparing spawn area: 23%
-[20:01:01] [Worker-Main-2/INFO]: Preparing spawn area: 25%
-[20:01:01] [Worker-Main-1/INFO]: Preparing spawn area: 29%
-[20:01:02] [Worker-Main-3/INFO]: Preparing spawn area: 31%
-[20:01:03] [Worker-Main-2/INFO]: Preparing spawn area: 32%
-[20:01:03] [Worker-Main-3/INFO]: Preparing spawn area: 32%
-[20:01:03] [Worker-Main-2/INFO]: Preparing spawn area: 34%
-[20:01:04] [Worker-Main-3/INFO]: Preparing spawn area: 36%
-[20:01:04] [Worker-Main-3/INFO]: Preparing spawn area: 39%
-[20:01:05] [Worker-Main-1/INFO]: Preparing spawn area: 42%
-[20:01:05] [Worker-Main-1/INFO]: Preparing spawn area: 45%
-[20:01:06] [Worker-Main-1/INFO]: Preparing spawn area: 48%
-[20:01:06] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[20:01:07] [Worker-Main-2/INFO]: Preparing spawn area: 54%
-[20:01:07] [Worker-Main-1/INFO]: Preparing spawn area: 56%
-[20:01:08] [Worker-Main-2/INFO]: Preparing spawn area: 59%
-[20:01:08] [Worker-Main-1/INFO]: Preparing spawn area: 62%
-[20:01:09] [Worker-Main-2/INFO]: Preparing spawn area: 65%
-[20:01:09] [Worker-Main-2/INFO]: Preparing spawn area: 68%
-[20:01:10] [Worker-Main-3/INFO]: Preparing spawn area: 70%
-[20:01:10] [Worker-Main-3/INFO]: Preparing spawn area: 73%
-[20:01:11] [Worker-Main-1/INFO]: Preparing spawn area: 76%
-[20:01:11] [Worker-Main-2/INFO]: Preparing spawn area: 78%
-[20:01:12] [Worker-Main-3/INFO]: Preparing spawn area: 82%
-[20:01:13] [Worker-Main-1/INFO]: Preparing spawn area: 83%
-[20:01:13] [Worker-Main-3/INFO]: Preparing spawn area: 83%
-[20:01:13] [Worker-Main-1/INFO]: Preparing spawn area: 84%
-[20:01:14] [Worker-Main-1/INFO]: Preparing spawn area: 87%
-[20:01:14] [Worker-Main-3/INFO]: Preparing spawn area: 90%
-[20:01:15] [Worker-Main-2/INFO]: Preparing spawn area: 93%
-[20:01:15] [Worker-Main-3/INFO]: Preparing spawn area: 96%
-[20:01:16] [Server thread/INFO]: Time elapsed: 24850 ms
-[20:01:16] [Server thread/INFO]: Done (30.308s)! For help, type "help"
-[20:01:23] [Server thread/INFO]: Stopping the server
-[20:01:23] [Server thread/INFO]: Stopping server
-[20:01:23] [Server thread/INFO]: Saving players
-[20:01:23] [Server thread/INFO]: Saving worlds
-[20:01:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:02:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:02:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:02:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:02:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:02:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:02:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:04:55] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:04:56] [ServerMain/INFO]: Loaded 7 recipes
+[20:04:56] [ServerMain/INFO]: Loaded 1271 advancements
+[20:04:57] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[20:04:57] [Server thread/INFO]: Loading properties
+[20:04:57] [Server thread/INFO]: Default game type: SURVIVAL
+[20:04:57] [Server thread/INFO]: Generating keypair
+[20:04:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:04:57] [Server thread/INFO]: Using epoll channel type
+[20:04:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:04:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:04:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:04:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:04:57] [Server thread/WARN]: Failed to load white-list: 
+com.google.gson.JsonSyntaxException: Expected entry to be a JsonObject, was null (json)
+	at aor.m(SourceFile:413) ~[server-1.20.1.jar:?]
+	at alp.f(SourceFile:122) ~[server-1.20.1.jar:?]
+	at ahd.C(SourceFile:109) ~[server-1.20.1.jar:?]
+	at ahd.<init>(SourceFile:29) ~[server-1.20.1.jar:?]
+	at ahe.e(SourceFile:161) ~[server-1.20.1.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:646) ~[server-1.20.1.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:265) ~[server-1.20.1.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[20:04:57] [Server thread/INFO]: Preparing level "world"
+[20:05:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:05:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:05:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:05:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:05:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:05:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:05:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:05:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:05:03] [Worker-Main-2/INFO]: Preparing spawn area: 48%
+[20:05:03] [Server thread/INFO]: Time elapsed: 3838 ms
+[20:05:03] [Server thread/INFO]: Done (6.387s)! For help, type "help"
+[20:05:12] [Server thread/INFO]: C0RR3A_D4[/10.244.211.189:58303] logged in with entity id 113 at (-11.5, 64.0, 18.5)
+[20:05:12] [Server thread/INFO]: C0RR3A_D4 joined the game
+[20:05:18] [Server thread/INFO]: Charyutu[/10.244.211.189:58310] logged in with entity id 299 at (-20.5, 69.0, 23.5)
+[20:05:18] [Server thread/INFO]: Charyutu joined the game
+[20:06:57] [Server thread/INFO]: C0RR3A_D4 lost connection: Timed out
+[20:06:57] [Server thread/INFO]: C0RR3A_D4 left the game
+[20:07:15] [Server thread/INFO]: Charyutu lost connection: Disconnected
+[20:07:15] [Server thread/INFO]: Charyutu left the game
+[20:08:04] [Server thread/INFO]: C0RR3A_D4[/10.244.211.189:58507] logged in with entity id 1427 at (-11.5, 64.0, 18.5)
+[20:08:04] [Server thread/INFO]: C0RR3A_D4 joined the game
+[20:10:09] [Server thread/INFO]: C0RR3A_D4 has made the advancement [Stone Age]
+[20:10:30] [Server thread/INFO]: C0RR3A_D4 has made the advancement [Getting an Upgrade]
