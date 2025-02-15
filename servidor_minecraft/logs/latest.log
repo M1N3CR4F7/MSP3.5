@@ -1,62 +1,133 @@
-[13:04:04] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[13:04:05] [ServerMain/INFO]: Loaded 7 recipes
-[13:04:05] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[13:04:05] [Server thread/INFO]: Loading properties
-[13:04:05] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[13:04:06] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[13:04:06] [Server thread/INFO]: Using 4 threads for Netty based IO
-[13:04:06] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[13:11:26] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:11:28] [ServerMain/INFO]: Loaded 7 recipes
+[13:11:28] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[13:11:28] [Server thread/INFO]: Loading properties
+[13:11:28] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[13:11:29] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:11:29] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:11:29] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[13:04:06] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[13:04:06] [Server thread/INFO]: Default game type: SURVIVAL
-[13:04:06] [Server thread/INFO]: Generating keypair
-[13:04:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:04:06] [Server thread/INFO]: Using epoll channel type
-[13:04:06] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[13:04:06] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[13:04:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[13:04:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:04:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:04:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:04:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:04:06] [Server thread/INFO]: Preparing level "world"
-[13:04:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:04:07] [Server thread/INFO]: Time elapsed: 264 ms
-[13:04:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[13:04:07] [Server thread/INFO]: Time elapsed: 83 ms
-[13:04:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[13:04:08] [Server thread/INFO]: Time elapsed: 104 ms
-[13:04:08] [Server thread/INFO]: Running delayed init tasks
-[13:04:08] [Server thread/INFO]: Done (2.377s)! For help, type "help"
-[13:04:08] [Server thread/INFO]: Timings Reset
-[13:04:26] [Server thread/INFO]: Made c0rr3a_d4 a server operator
-[13:05:03] [Server thread/INFO]: Server Plugins (0):
-[13:05:27] [Server thread/INFO]: Villager EntityVillager['Villager'/54, uuid='9cf03544-cbe1-4e04-bdaa-a5a9a3ff122f', l='ServerLevel[world]', x=7.48, y=88.00, z=26.92, cpos=[0, 1], tl=1040, v=true] died, message: 'Villager froze to death'
-[13:06:08] [Server thread/INFO]: Summoned new Villager
-[13:06:23] [Server thread/INFO]: Stopping the server
-[13:06:23] [Server thread/INFO]: Stopping server
-[13:06:23] [Server thread/INFO]: Saving players
-[13:06:23] [Server thread/INFO]: Saving worlds
-[13:06:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[13:06:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[13:06:23] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[13:06:23] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[13:06:24] [Server thread/INFO]: [ChunkHolderManager] Saved 2025 block chunks, 529 entity chunks, 16 poi chunks in world 'world' in 1.50s
-[13:06:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:06:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[13:06:25] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[13:06:25] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[13:06:25] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[13:06:25] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_nether' in 0.46s
-[13:06:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:06:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[13:06:26] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[13:06:26] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[13:06:26] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[13:06:26] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_the_end' in 0.12s
-[13:06:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:06:26] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[13:06:26] [Server thread/INFO]: Flushing Chunk IO
-[13:06:26] [Server thread/INFO]: Closing Thread Pool
-[13:06:26] [Server thread/INFO]: Closing Server
+[13:11:29] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[13:11:30] [Server thread/INFO]: Default game type: SURVIVAL
+[13:11:30] [Server thread/INFO]: Generating keypair
+[13:11:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:11:30] [Server thread/INFO]: Using epoll channel type
+[13:11:30] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[13:11:30] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[13:11:30] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:11:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:11:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:11:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:11:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:11:30] [Server thread/INFO]: Preparing level "world"
+[13:11:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:11:31] [Server thread/INFO]: Time elapsed: 223 ms
+[13:11:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[13:11:31] [Server thread/INFO]: Time elapsed: 86 ms
+[13:11:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[13:11:31] [Server thread/INFO]: Time elapsed: 76 ms
+[13:11:31] [Server thread/INFO]: Running delayed init tasks
+[13:11:31] [Server thread/INFO]: Done (2.412s)! For help, type "help"
+[13:11:31] [Server thread/INFO]: Timings Reset
+[13:11:37] [Server thread/INFO]: Server Plugins (0):
+[13:17:09] [Server thread/INFO]: Villager EntityVillager['Nitwit'/30, uuid='08c08799-c31c-4c55-932f-79d4e69003ac', l='ServerLevel[world]', x=-24.13, y=83.00, z=-7.70, cpos=[-2, -1], tl=8840, v=true] died, message: 'Nitwit froze to death'
+[13:17:27] [Server thread/INFO]: Villager EntityVillager['Villager'/61, uuid='386f75ec-84a5-48a1-95d9-72a100a6b4bd', l='ServerLevel[world]', x=7.48, y=88.00, z=26.92, cpos=[0, 1], tl=7320, v=true] died, message: 'Villager froze to death'
+[13:26:55] [Server thread/INFO]: Summoned new Villager
+[13:27:09] [Server thread/INFO]: Summoned new Villager
+[13:27:55] [Server thread/INFO]: Villager EntityVillager['Villager'/180, uuid='054e7c62-4618-4289-aea9-4b5f563c0380', l='ServerLevel[world]', x=7.48, y=88.00, z=26.92, cpos=[0, 1], tl=920, v=true] died, message: 'Villager froze to death'
+[13:28:02] [Server thread/INFO]: Summoned new Villager
+[13:28:22] [Server thread/INFO]: Nothing changed. The player already is an operator
+[13:28:33] [User Authenticator #0/INFO]: UUID of player C0RR3A_D4 is 9c72a5c0-28c8-3b18-9822-49eeb0c9a0f2
+[13:28:33] [Server thread/INFO]: C0RR3A_D4 joined the game
+[13:28:33] [Server thread/INFO]: C0RR3A_D4[/10.244.211.189:53664] logged in with entity id 184 at ([world]-4.5, 80.0, 1.5)
+[13:28:48] [Server thread/INFO]: Villager EntityVillager['Villager'/181, uuid='bb275363-7c79-4ea5-ab8e-1eac344da17e', l='ServerLevel[world]', x=7.48, y=88.00, z=26.92, cpos=[0, 1], tl=920, v=true] died, message: 'Villager froze to death'
+[13:28:51] [Server thread/INFO]: Villager EntityVillager['Villager'/179, uuid='f9842897-ec0a-4c71-8a34-7679b6796b9c', l='ServerLevel[world]', x=16.54, y=90.16, z=25.30, cpos=[1, 1], tl=2320, v=true] died, message: 'Villager froze to death'
+[13:29:11] [Server thread/INFO]: Made C0RR3A_D4 a server operator
+[13:29:30] [Server thread/INFO]: Summoned new Villager
+[13:29:49] [Server thread/INFO]: Summoned new Villager
+[13:30:16] [Server thread/INFO]: Villager EntityVillager['Villager'/426, uuid='28df5601-5df6-42a1-9a9e-35b5c2cdf9e0', l='ServerLevel[world]', x=7.48, y=88.00, z=26.92, cpos=[0, 1], tl=920, v=true] died, message: 'Villager froze to death'
+[13:30:17] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode creative
+[13:30:17] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Creative Mode]
+[13:30:32] [Server thread/INFO]: Summoned new Villager
+[13:30:35] [Server thread/INFO]: Villager EntityVillager['Villager'/456, uuid='18a331e8-fb66-44a8-810a-50e3d40265a6', l='ServerLevel[world]', x=16.70, y=90.28, z=25.50, cpos=[1, 1], tl=920, v=true] died, message: 'Villager froze to death'
+[13:30:39] [Server thread/INFO]: Summoned new Villager
+[13:31:17] [Server thread/INFO]: Summoned new Villager
+[13:31:18] [Server thread/INFO]: Villager EntityVillager['Villager'/651, uuid='d96a396f-20fc-4667-8ff8-d23a85d6df15', l='ServerLevel[world]', x=7.48, y=88.00, z=26.92, cpos=[0, 1], tl=920, v=true] died, message: 'Villager froze to death'
+[13:33:57] [Server thread/INFO]: Villager EntityVillager['Villager'/793, uuid='7b0a3000-431c-46e6-9db5-2594dd330849', l='ServerLevel[world]', x=7.30, y=91.00, z=22.50, cpos=[0, 1], tl=3200, v=true] died, message: 'Villager froze to death'
+[13:34:00] [Server thread/INFO]: Summoned new Villager
+[13:34:01] [Server thread/INFO]: Summoned new Villager
+[13:34:34] [Server thread/INFO]: C0RR3A_D4 issued server command: /seed
+[13:34:46] [Server thread/INFO]: Villager EntityVillager['Villager'/1050, uuid='79032238-eb35-4fc0-80e7-d3e55b31cdde', l='ServerLevel[world]', x=7.48, y=88.00, z=26.92, cpos=[0, 1], tl=920, v=true] died, message: 'Villager froze to death'
+[13:34:47] [Server thread/INFO]: Villager EntityVillager['Villager'/1051, uuid='c62d8101-eac2-4cad-99a5-57415a7547f2', l='ServerLevel[world]', x=7.48, y=88.00, z=26.92, cpos=[0, 1], tl=920, v=true] died, message: 'Villager froze to death'
+[13:35:00] [Server thread/INFO]: C0RR3A_D4 issued server command: /kill
+[13:35:00] [Server thread/INFO]: C0RR3A_D4 was killed
+[13:35:00] [Server thread/INFO]: [C0RR3A_D4: Killed C0RR3A_D4]
+[13:35:09] [Server thread/INFO]: C0RR3A_D4 issued server command: /time set 0t
+[13:35:09] [Server thread/INFO]: [C0RR3A_D4: Set the time to 0]
+[13:35:15] [Server thread/INFO]: C0RR3A_D4 issued server command: /gamemode survival
+[13:35:15] [Server thread/INFO]: [C0RR3A_D4: Set own game mode to Survival Mode]
+[13:35:52] [Server thread/INFO]: C0RR3A_D4 has made the advancement [Stone Age]
+[13:35:57] [Server thread/INFO]: C0RR3A_D4 has made the advancement [Getting an Upgrade]
+[13:36:06] [Server thread/INFO]: Villager EntityVillager['Farmer'/37, uuid='a2b1c8dd-15a8-4153-9de5-60e811fcfea9', l='ServerLevel[world]', x=-10.46, y=83.00, z=-3.70, cpos=[-1, -1], tl=31560, v=true] died, message: 'Farmer froze to death'
+[13:38:14] [Server thread/INFO]: C0RR3A_D4 has made the advancement [Light as a Rabbit]
+[13:39:52] [Server thread/INFO]: Summoned new Villager
+[13:39:53] [Server thread/INFO]: Summoned new Villager
+[13:39:53] [Server thread/INFO]: Summoned new Villager
+[13:39:54] [Server thread/INFO]: Summoned new Villager
+[13:39:54] [Server thread/INFO]: Summoned new Villager
+[13:39:54] [Server thread/INFO]: Summoned new Villager
+[13:39:54] [Server thread/INFO]: Summoned new Villager
+[13:39:55] [Server thread/INFO]: Summoned new Villager
+[13:40:38] [Server thread/INFO]: Villager EntityVillager['Villager'/2615, uuid='73c0188e-a05c-4a40-a51e-b556f9b248dd', l='ServerLevel[world]', x=7.48, y=88.00, z=26.92, cpos=[0, 1], tl=920, v=true] died, message: 'Villager froze to death'
+[13:40:39] [Server thread/INFO]: Villager EntityVillager['Villager'/2616, uuid='1ea032f1-ee3a-4e39-93f0-702497f2bd22', l='ServerLevel[world]', x=7.48, y=88.00, z=26.92, cpos=[0, 1], tl=920, v=true] died, message: 'Villager froze to death'
+[13:40:39] [Server thread/INFO]: Villager EntityVillager['Villager'/2618, uuid='84b37ab6-3c9f-4676-a980-e084af6e52c3', l='ServerLevel[world]', x=7.48, y=88.00, z=26.92, cpos=[0, 1], tl=920, v=true] died, message: 'Villager froze to death'
+[13:40:40] [Server thread/INFO]: Villager EntityVillager['Villager'/2619, uuid='e0f76843-4091-4f84-8b63-672581e483bd', l='ServerLevel[world]', x=7.48, y=88.00, z=26.92, cpos=[0, 1], tl=920, v=true] died, message: 'Villager froze to death'
+[13:40:40] [Server thread/INFO]: Villager EntityVillager['Villager'/2621, uuid='7a4755a2-40ce-4f72-8209-c387cad87cdc', l='ServerLevel[world]', x=7.48, y=88.00, z=26.92, cpos=[0, 1], tl=920, v=true] died, message: 'Villager froze to death'
+[13:40:40] [Server thread/INFO]: Villager EntityVillager['Villager'/2622, uuid='9e7d79ad-782f-456e-a5c1-5abb84b41bb3', l='ServerLevel[world]', x=7.48, y=88.00, z=26.92, cpos=[0, 1], tl=920, v=true] died, message: 'Villager froze to death'
+[13:40:40] [Server thread/INFO]: Villager EntityVillager['Villager'/2623, uuid='a54900d8-ad16-44a8-b4b0-f2fa96b80d83', l='ServerLevel[world]', x=7.48, y=88.00, z=26.92, cpos=[0, 1], tl=920, v=true] died, message: 'Villager froze to death'
+[13:40:41] [Server thread/INFO]: Villager EntityVillager['Villager'/2625, uuid='69d4f085-eb4d-42a1-b56f-233e30bbe4c5', l='ServerLevel[world]', x=7.48, y=88.00, z=26.92, cpos=[0, 1], tl=920, v=true] died, message: 'Villager froze to death'
+[13:41:21] [Server thread/INFO]: Summoned new Villager
+[13:41:21] [Server thread/INFO]: Summoned new Villager
+[13:41:21] [Server thread/INFO]: Summoned new Villager
+[13:41:22] [Server thread/INFO]: Summoned new Villager
+[13:41:22] [Server thread/INFO]: Summoned new Villager
+[13:41:22] [Server thread/INFO]: Summoned new Villager
+[13:42:08] [Server thread/INFO]: Summoned new Villager
+[13:42:12] [Server thread/INFO]: C0RR3A_D4 issued server command: /time set 0t
+[13:42:12] [Server thread/INFO]: [C0RR3A_D4: Set the time to 0]
+[13:42:13] [Server thread/INFO]: Villager EntityVillager['Villager'/2799, uuid='7f84a774-161e-4d09-887b-c1f1f5ff4f8e', l='ServerLevel[world]', x=6.50, y=88.00, z=25.75, cpos=[0, 1], tl=1040, v=true] died, message: 'Villager froze to death'
+[13:42:14] [Server thread/INFO]: Villager EntityVillager['Villager'/2806, uuid='dc632232-d5c5-42c9-b7b8-b690603b3cf8', l='ServerLevel[world]', x=8.70, y=88.00, z=25.78, cpos=[0, 1], tl=1040, v=true] died, message: 'Villager froze to death'
+[13:42:15] [Server thread/INFO]: Summoned new Villager
+[13:42:15] [Server thread/INFO]: Summoned new Villager
+[13:42:16] [Server thread/INFO]: Summoned new Villager
+[13:42:16] [Server thread/INFO]: Summoned new Villager
+[13:42:21] [Server thread/INFO]: C0RR3A_D4 issued server command: /stop
+[13:42:21] [Server thread/INFO]: [C0RR3A_D4: Stopping the server]
+[13:42:21] [Server thread/INFO]: Stopping server
+[13:42:21] [Server thread/INFO]: Saving players
+[13:42:21] [Server thread/INFO]: C0RR3A_D4 lost connection: Server closed
+[13:42:21] [Server thread/INFO]: C0RR3A_D4 left the game
+[13:42:21] [Server thread/INFO]: Saving worlds
+[13:42:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:42:21] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[13:42:21] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[13:42:21] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[13:42:21] [Server thread/INFO]: [ChunkHolderManager] Saved 947 block chunks, 229 entity chunks, 2 poi chunks in world 'world' in 0.62s
+[13:42:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:42:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[13:42:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[13:42:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[13:42:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[13:42:22] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 23 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[13:42:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:42:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[13:42:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[13:42:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[13:42:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[13:42:22] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[13:42:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:42:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:42:22] [Server thread/INFO]: Flushing Chunk IO
+[13:42:22] [Server thread/INFO]: Closing Thread Pool
+[13:42:22] [Server thread/INFO]: Closing Server
