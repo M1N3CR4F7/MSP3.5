@@ -231,10 +231,6 @@ button-puffer-fish-puff-state-lore:
 - "Cambia el estado de hinchamiento"
 - "del pez globo."
 - "Actualmente: &e{puffState}"
-button-salmon-variant: "&aElegir variante"
-button-salmon-variant-lore:
-- "Cambia el tamaño"
-- "del salmón."
 button-frog-variant: "&aElegir variante de rana"
 button-frog-variant-lore:
 - "Cambia el aspecto de la rana"
@@ -324,7 +320,6 @@ currency-items-received: "&aHas recibido &6{amount}x&a ítem de moneda '&e{curre
 must-hold-item-in-main-hand: "&7Debes sostener un ítem en tu mano principal."
 currency-item-set-to-main-hand-item: "&aEl ítem de moneda '&e{currencyId}&a' ha sido configurado al &eítem en tu mano principal&a!"
 items-converted: "&aConvertidos &e{count}&a pila(s) de ítems!"
-items-updated: "&aActualizados &e{count}&a item(s)!"
 unknown-book-author: "Desconocido"
 
 trade-perm-set: "&aEl permiso de comercio de la tienda se ha establecido en '&e{perm}&a'!"
@@ -572,12 +567,6 @@ villager-name-invalid: "&aEse nombre no es válido!"
 
 no-shops-found: "&7No se encontraron tiendas."
 
-teleport-virtual-shopkeeper: "&7No se puede teletransportar a un comerciante virtual!"
-teleport-shopkeeper-world-not-loaded: "&7No se puede teletransportar a un comerciante en un mundo no cargado!"
-teleport-no-safe-location-found: "&7No se pudo encontrar una ubicación segura para teletransportarse!"
-teleport-failed: "&7La teletransportación falló!"
-teleport-success: "&aEl jugador '&e{player}&a' fue teletransportado al comerciante '&e{shop}&a'!"
-
 list-admin-shops-header: "&9Hay &e{shopsCount} &9tiendas administrativas: &e(Página {page} de {maxPage})"
 list-all-shops-header: "&9Hay &e{shopsCount} &9tiendas en total: &e(Página {page} de {maxPage})"
 list-player-shops-header: "&9El jugador '&e{player}&9' tiene &e{shopsCount} &9tiendas: &e(Página {page} de {maxPage})"
@@ -659,20 +648,11 @@ command-shop-object-type-argument-invalid: "&cTipo de objeto de tienda desconoci
 command-shopkeeper-argument-invalid: "&cNo se encontró ningún comerciante para '&e{argument}&c'."
 command-shopkeeper-argument-no-admin-shop: "&cEl comerciante '&e{argument}&c' no es un comerciante administrador."
 command-shopkeeper-argument-no-player-shop: "&cEl comerciante '&e{argument}&c' no es un comerciante de jugador."
-command-shopkeeper-argument-no-access: "&cNo tienes acceso al comerciante '&e{argument}&c'."
 command-entity-argument-no-villager: "&cLa entidad '&e{argument}&c' no es un aldeano normal."
 
 ambiguous-player-name: "&cHay múltiples coincidencias con el nombre '&e{name}&c'!"
 ambiguous-player-name-entry: "&c  - '&e{name}&r&c' (&6{uuid}&c)"
 ambiguous-player-name-more: "&c  - ...."
-
-ambiguous-shopkeeper-name: "&cHay múltiples comerciantes con el nombre '&e{name}&c'!"
-ambiguous-shopkeeper-name-entry: "&c  - &e{id})&c '&e{name}&r&c' (&6{uuid}&c)"
-ambiguous-shopkeeper-name-more: "&c  - ...."
-
-ambiguous-target-shopkeeper: "&cHay múltiples comerciantes siendo objetivo!"
-ambiguous-target-shopkeeper-entry: "&c  - &e{id})&c '&e{name}&r&c' (&6{uuid}&c)"
-ambiguous-target-shopkeeper-more: "&c  - ...."
 
 command-help-title: "&9***** &8[&6Shopkeepers v{version}&8] &9*****"
 command-help-usage-format: "&e{usage}"
@@ -690,17 +670,12 @@ command-description-give: "Entrega artículos de creación de tiendas al jugador
 command-description-give-currency: "Entrega artículos de moneda al jugador especificado."
 command-description-set-currency: "Cambia el artículo de moneda por el artículo en mano."
 command-description-convert-items: "Convierte los artículos en mano (o todos) para conformarse al formato de datos de Spigot."
-command-description-update-items: "Actualiza items de terceros (si son compatibles)."
 command-description-remote: "Abre una tienda remotamente (Opcional: Para otro jugador)."
-command-description-remote-edit: "Edita una tienda remotamente."
 command-description-transfer: "Transfiere la propiedad de una tienda."
-command-description-teleport: "Teletransporta a una tienda."
 command-description-settradeperm: "Establece, elimina (-) o muestra (?) el permiso de intercambio."
-command-description-settradedcommand: "Establece, elimina (-) o muestra (?) el comando intercambiado del artículo en mano."
 command-description-setforhire: "Establece una de tus tiendas para venta."
 command-description-snapshot-list: "Enumera las instantáneas de una tienda."
 command-description-snapshot-create: "Crea una nueva instantánea de tienda."
 command-description-snapshot-remove: "Elimina una instantánea específica o todas las instantáneas de una tienda."
-command-description-snapshot-restore: "Restaura una instantánea de tienda específica."
 command-description-edit-villager: "Abre el editor para el aldeano objetivo."
 command-description-replace-all-with-vanilla-villagers: "Reemplaza todos los comerciantes con aldeanos vanilla sin IA."
