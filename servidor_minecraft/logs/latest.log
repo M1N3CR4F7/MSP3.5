@@ -47,3 +47,17 @@ com.google.gson.JsonSyntaxException: Expected entry to be a JsonObject, was null
 [12:04:53] [Server thread/INFO]: C0RR3A_D4 left the game
 [12:05:07] [Server thread/INFO]: C0RR3A_D4[/10.244.211.189:55623] logged in with entity id 763 at (226.80873248393212, 61.494708620230696, 582.6715157320175)
 [12:05:07] [Server thread/INFO]: C0RR3A_D4 joined the game
+[12:21:09] [Server thread/INFO]: C0RR3A_D4 has made the advancement [Monster Hunter]
+[12:48:29] [Server thread/INFO]: C0RR3A_D4 lost connection: Disconnected
+[12:48:29] [Server thread/INFO]: C0RR3A_D4 left the game
+[12:48:37] [Server thread/INFO]: Stopping the server
+[12:48:37] [Server thread/INFO]: Stopping server
+[12:48:37] [Server thread/INFO]: Saving players
+[12:48:37] [Server thread/INFO]: Saving worlds
+[12:48:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:48:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12:48:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12:48:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:48:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:48:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:48:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
